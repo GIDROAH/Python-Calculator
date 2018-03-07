@@ -1,5 +1,5 @@
 num1 = int (input("Your 1st number= "))
-operator = ("What you want to do + - * / ")
+operator = input("What you want to do + - * / ")
 num2 = int (input("Your 2nd number= "))
 
 if operator == "+":
